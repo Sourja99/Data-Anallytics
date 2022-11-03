@@ -8,7 +8,10 @@ As a Data Analyst - I have sorted down some of the Important applications and pr
 4. Sentiment Analysis
 5. Data Visualizations
 
-Data --- Business Analytics -
+Data --- Business Usefulness-
 
 6. Price Optimization
-7. 
+7. Inventory Management
+8. Future Sales Prediction
+9. Customer | Market Segmentation
+10. Recommendation System
