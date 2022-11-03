@@ -7,3 +7,8 @@ As a Data Analyst - I have sorted down some of the Important applications and pr
 3. EDA
 4. Sentiment Analysis
 5. Data Visualizations
+
+Data --- Business Analytics -
+
+6. Price Optimization
+7. 
